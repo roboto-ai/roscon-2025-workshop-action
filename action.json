@@ -1,6 +1,6 @@
 {
     "name": "detect_vibration",
-    "description": "Detect Vibration",
+    "description": "Analyzes a vehicle_imu_status topic to determine periods of high vibration.",
     "compute_requirements": {
         "vCPU": 512,
         "memory": 1024,

@@ -17,6 +17,7 @@ dist/
 # Editor
 *.swp
 .vscode
+.idea
 
 # Workspace
 .workspace

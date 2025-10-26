@@ -1,9 +1,6 @@
 # detect_vibration
 
-Detect Vibration
-
-
-> **Note**: This README was generated from a template. Please customize it to describe what this specific action does: its inputs, outputs, parameters, and/or usage instructions.
+Analyzes a `vehicle_imu_status` topic to determine periods of high vibration.
 
 ## Table of Contents
 
